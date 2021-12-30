@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "l10n"
+  "defaultProject": "l10n",
+  "cli": {
+    "analytics": "5207a5ab-db9b-40dc-b4f1-ca4943bf63cd"
+  }
 }

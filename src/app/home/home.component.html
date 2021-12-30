@@ -1,11 +1,10 @@
+<p>home works!</p>
 <div>
   <h2>{{ 'HOME.TITLE' | translate }}</h2>
   <label>
     {{ 'HOME.SELECT' | translate }}
-    <select #langSelect (change)="translate.use(langSelect.value)">
+    <!-- <select #langSelect (change)="translate.use(langSelect.value)">
       <option *ngFor="let lang of translate.getLangs()" [value]="lang" [selected]="lang === translate.currentLang">{{ lang }}</option>
-    </select>
+    </select> -->
   </label>
 </div>
-<app-loctest></app-loctest>
-
