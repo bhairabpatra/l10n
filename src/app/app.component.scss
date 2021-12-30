@@ -1,0 +1,25 @@
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: azure;
+}
+.nav_bar {
+  background-color: rgb(30, 31, 31);
+  padding: 10px;
+  color: #FFF;
+  .nav_grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 1rem;
+    font-size: 18px;
+
+    .nav_right {
+      text-align: right;
+    }
+  }
+}
+
+.para_g {
+  font-size: 20px;
+  padding: 10px 0px;
+}

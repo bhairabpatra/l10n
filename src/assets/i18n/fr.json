@@ -1,6 +1,7 @@
 {
   "HOME": {
-    "TITLE": "Bonjour Angular avec ngx-translate !",
-    "SELECT": "Changer la langue test"
+    "TITLE": "एनजीएक्स-अनुवाद के साथ हैलो कोणीय!",
+    "SELECT": "भाषा बदलो",
+    "TITLE1":"लोरेम इप्सम डोलर सिट एमेट कंसेक्टेटूर।"
   }
 }
